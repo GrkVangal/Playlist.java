@@ -45,4 +45,4 @@ Educational Purpose
 ---
 This project is part of my journey in learning Java programming. It serves as a practical exercise in applying core Java fundamentals, improving problem-solving skills, and developing better code organization practices.
 
-Future improvements may include file-based storage, database integration, and additional playlist management features.
+
