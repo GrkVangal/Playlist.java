@@ -6,7 +6,6 @@ This repository contains a beginner-friendly Java Music Playlist application dev
 
 The main goal of this project is to practice and strengthen fundamental Java programming concepts through a simple, practical application.
 
-The project focuses on writing clean, organized, and reusable code by separating the program into multiple files, with each file responsible for a specific task.
 
 Features
 ---
